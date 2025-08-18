@@ -41,5 +41,5 @@ qiime2-amplicon 2025.7
 
 ### Running Analysis:
 Ensure all the files are downloaded from the MBARI_Internship repository and the dependencies are the correct version before running the analysis. 
-In addition, the analysis is meant to run on Jupyter lab/notebook. Restart the kernell and run all the cells. 
-Read the data frame and make sure the sites and parameters are the right heading. Adjust your code to view other sites and parameters within C1.
+In addition, the analysis is meant to run on Jupyter lab/notebook with some terminal commands for the QIIME2 analysis. Restart the kernell and run all the cells. 
+Read the data frame and make sure the sites and parameters are the right heading. Adjust your code to view other sites and parameters. 12S and COI data not included, reach out to Dr. Francisco Chavez (chfr@mbari.org) or Katie Pitz (kpitz@mbari.org) for additional markers.
